@@ -1,4 +1,5 @@
 {
+    "name": "mazemax/tboholidays-php",
     "require": {
         "wsdl2phpgenerator/wsdl2phpgenerator": "^3.3",
         "zendframework/zend-soap": "^2.6"
